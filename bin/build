@@ -1,1 +1,1 @@
-go build cmd/demo.go
+go build -o bin/server cmd/server.go

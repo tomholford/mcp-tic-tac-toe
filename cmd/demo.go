@@ -2,6 +2,6 @@ package main
 
 import "mcp-tic-tac-toe/game"
 
-func main() {
+func demo() {
 	game.Demo()
 }

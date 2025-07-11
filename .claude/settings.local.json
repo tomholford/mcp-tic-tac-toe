@@ -5,7 +5,13 @@
       "Bash(mkdir:*)",
       "Bash(go mod init:*)",
       "Bash(go test:*)",
-      "Bash(go run:*)"
+      "Bash(go run:*)",
+      "Bash(go get:*)",
+      "Bash(go mod:*)",
+      "Bash(go doc:*)",
+      "Bash(rm:*)",
+      "Bash(mv:*)",
+      "Bash(go build:*)"
     ],
     "deny": []
   }

@@ -11,7 +11,10 @@
       "Bash(go doc:*)",
       "Bash(rm:*)",
       "Bash(mv:*)",
-      "Bash(go build:*)"
+      "Bash(go build:*)",
+      "mcp__tic-tac-toe__new_game",
+      "mcp__tic-tac-toe__make_move",
+      "mcp__tic-tac-toe__analyze_position"
     ],
     "deny": []
   }

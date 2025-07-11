@@ -2,6 +2,8 @@
 
 A Model Context Protocol (MCP) server that enables AI assistants to play tic-tac-toe through standardized tool interfaces. Perfect for demonstrating AI-human collaboration and MCP integration.
 
+![mcp-tic-tac-toe screenshot](./mcp-tic-tac-toe-screenshot.png)
+
 ## Overview
 
 This project implements a complete tic-tac-toe game as an MCP server, allowing AI assistants like Claude to:
